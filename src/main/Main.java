@@ -15,6 +15,7 @@ public class Main extends javax.swing.JFrame {
     public Double n1, n2, n3;
     /**
      * Creates new form Main
+     * //
      */
     public Main() {
         initComponents();
@@ -32,7 +33,7 @@ public class Main extends javax.swing.JFrame {
        {
         return false;
        }
-       //
+       
     }
 
     /**
